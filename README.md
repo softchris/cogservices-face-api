@@ -1,13 +1,13 @@
 ## Create a cog services account
 
 ```
-https://docs.microsoft.com/en-gb/azure/cognitive-services/cognitive-services-apis-create-account
+https://docs.microsoft.com/en-gb/azure/cognitive-services/cognitive-services-apis-create-account?cogservices-face-api-softchris-chnoring
 ```
 
 ## Further reading
 
 ```
-https://docs.microsoft.com/en-gb/azure/cognitive-services/face/quickstarts/node
+https://docs.microsoft.com/en-gb/azure/cognitive-services/face/quickstarts/node?cogservices-face-api-softchris-chnoring
 ```
 
 ## Set env variables
